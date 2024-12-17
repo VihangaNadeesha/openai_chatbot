@@ -1,5 +1,5 @@
 # openai_chatbot
-Overview
+## Overview
 This program is a basic implementation of a chatbot using the OpenAI API. 
 It allows users to ask questions in a loop and receive AI-generated responses based on the OpenAI gpt-3.5-turbo model.
 
